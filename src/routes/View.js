@@ -4,6 +4,7 @@ import { getProductList } from '../data';
 import { useEffect, useState } from 'react';
 
 function View({ list }) {
+  console.log(list)
   return (
     <div className={styles.container}>
       <div className={styles.sideBar}>
