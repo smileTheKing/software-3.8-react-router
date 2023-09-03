@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/software-3.8-react-router/static/css/main.f7bdfc6a.css",
-    "main.js": "/software-3.8-react-router/static/js/main.b904abca.js",
+    "main.js": "/software-3.8-react-router/static/js/main.c9daf4a3.js",
     "index.html": "/software-3.8-react-router/index.html",
     "main.f7bdfc6a.css.map": "/software-3.8-react-router/static/css/main.f7bdfc6a.css.map",
-    "main.b904abca.js.map": "/software-3.8-react-router/static/js/main.b904abca.js.map"
+    "main.c9daf4a3.js.map": "/software-3.8-react-router/static/js/main.c9daf4a3.js.map"
   },
   "entrypoints": [
     "static/css/main.f7bdfc6a.css",
-    "static/js/main.b904abca.js"
+    "static/js/main.c9daf4a3.js"
   ]
 }
