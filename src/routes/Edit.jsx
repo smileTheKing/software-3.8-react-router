@@ -8,7 +8,7 @@ const Edit = ({handleEdit,list}) => {
     <div style={{color:'black',padding:24}}>Edit
     
     
-    <form onSubmit={null}>
+    <form onSubmit={handleEdit}>
         
     </form>
     
