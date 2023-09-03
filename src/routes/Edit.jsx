@@ -9,7 +9,7 @@ const Edit = ({handleEdit,list}) => {
     
     
     <form onSubmit={null}>
-
+        
     </form>
     
     </div>

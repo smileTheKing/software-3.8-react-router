@@ -1,7 +1,7 @@
 {
+  "homepage": "https://smileTheKing.github.io/software-3.8-react-router",
   "name": "software-3.8-react-router",
   "version": "0.1.0",
-  "homepage": "https://smileTheKing.github.io/software-3.8-react-router",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

@@ -12,8 +12,7 @@ function Add ({name,discount,price,quantity,setDiscount,setName,setPrice,setQuan
       <h1>Add Product</h1>
       <form className={style.form} onSubmit={(e)=>{
         handleAdd(e);
-
-        //navigate to n
+        //navigate to view after submitting
         navigate('/view')
 
         }}>
