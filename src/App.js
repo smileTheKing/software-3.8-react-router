@@ -21,7 +21,7 @@ function App() {
  
 
   const [list, setList] = useState(dummyData);
-  const [addProduct, setAddProduct] = useState(list);
+  //const [addProduct, setAddProduct] = useState(list);
 
   const handlerDeleteProduct = (id) => {
     const newList = list.filter((item) => item.id !== id);
@@ -66,7 +66,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Header />}>
             <Route path="view" element={<View list={list} />}>
-              <Route index element={<ItemDefault />} />
+            <Route index element={<ItemDefault />} />
               <Route
                 path=":id"
                 element={

@@ -1,6 +1,6 @@
 {
-  "homepage": "https://smileTheKing.github.io/software-3.8-react-router",
   "name": "software-3.8-react-router",
+  "homepage": "http://smileTheKing.github.io/software-3.8-react-router",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
