@@ -64,7 +64,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Header />}>
+          <Route path="/software-3.8-react-router" element={<Header />}>
             <Route path="view" element={<View list={list} />}>
             <Route index element={<ItemDefault />} />
               <Route
